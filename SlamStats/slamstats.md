@@ -28,4 +28,4 @@ After learning about REST APIs and their implementation with JSON and Kotlin in 
 
 Cole and I are both big fans of basketball, so we wanted to make an app using some sort of basketball API. The specific API we chose was the [API-SPORTS' API-BASKETBALL](https://rapidapi.com/api-sports/api/api-basketball). The endpoints we chose were the teams, the standings, the leagues, and the seasons. This way, the users would have an app in which they could input a league id number (given in the GitHub repository's README) and a specific season to get the standings from any season of any basketball league around the world.
 
-Below is a table of contents containing all of the individual documents from the progress of our project. This is a very basic document as it is just meant for planning stuff out, but nonetheless it is a good indicator of our thought process and progression.
+Below you can access the document we used to work on the app. This is a very basic document as it is just meant for planning stuff out, but nonetheless it is a good indicator of our thought process and progression.
