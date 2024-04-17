@@ -16,4 +16,4 @@ If you wish to check out more of my work, you can check out my [portfolio websit
 
 ## Table of Contents
 
-- [Quinnipiac Tracker](QuinnipiacTracker/quinnipiac-tracker.md)
+- [Quinnipiac Tracker](../QuinnipiacTracker/quinnipiac-tracker.md)
