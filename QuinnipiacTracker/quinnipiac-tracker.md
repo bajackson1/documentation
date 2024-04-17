@@ -22,7 +22,7 @@ End Date: In Progress <br/>
 Collaborators: [Cole Davignon](https://github.com/cdavignon) <br/>
 GitHub Link: [bajackson1/QuinnipiacTracker](https://github.com/bajackson1/QuinnipiacTracker)
 
-# Project Description
+## Project Description
 
 For the final project in the SER210 class (Android development with Kotlin), we were tasked with creating our own original app with all the tools we had learned throughout the semester. Cole and I brainstormed some ideas such as a fitness tracker and a to-do list maker, however we landed on something more close to home: a tracker for buildings the user has visited at Quinnipiac University.
 
