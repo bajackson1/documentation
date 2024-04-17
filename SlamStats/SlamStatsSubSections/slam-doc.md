@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SlamStats Planning Document
-parent: Slamstats
+parent: SlamStats
 nav_order: 1
 permalink: /SlamStats/SlamStatsPlanningDocument
 ---
