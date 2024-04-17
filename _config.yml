@@ -13,6 +13,3 @@ relative_links:
 
 search:
   heading_level: true
-
-plugins:
-  - jemoji
