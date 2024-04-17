@@ -16,5 +16,5 @@ If you wish to check out more of my work, you can check out my [portfolio websit
 
 ## Table of contents
 
-- [QuinnipiacTracker](/QuinnipiacTracker/quinnipiac-tracker.md)
-- [SlamStats](/SlamStats/slamstats.md)
+- [QuinnipiacTracker](/documentation/QuinnipiacTracker/quinnipiac-tracker.md)
+- [SlamStats](/documentation/SlamStats/slamstats.md)
