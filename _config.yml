@@ -1,8 +1,29 @@
+# Site settings
 title: Documentation
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https://bajackson1.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Collections
+collections:
+  QuinnipiacTracker:
+    output: true
+  QuinnipiacTrackerSubSections:
+    output: true
+
+# Permalink settings
+permalink: /:collection/:name
+
+# Exclude files/folders from the compilation
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
