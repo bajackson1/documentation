@@ -10,6 +10,3 @@ aux_links:
 relative_links:
   enabled: true
   collections: true
-
-search:
-  heading_level: true
