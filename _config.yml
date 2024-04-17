@@ -1,12 +1,10 @@
-title: Documentation
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-
-url: https://bajackson1.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
+remote_theme: just-the-docs/just-the-docs
+title: "Documentation"
 relative_links:
   enabled: true
   collections: true
+search_enabled: true
+search:
+  heading_level: 3
+plugins:
+  - jemoji
