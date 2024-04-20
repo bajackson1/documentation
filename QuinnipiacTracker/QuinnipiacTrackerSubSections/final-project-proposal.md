@@ -23,7 +23,7 @@ Our idea was to implement a travel-tracker type app, that will allow you to trac
 
 ## Description
 
-![been-screen.png](../../assets/images/been-screen.png)
+![been-screen.png](https://bajackson1.github.io/assets/images/been-screen.png)
 *been App Home Page*
 
 We wanted the app to have the following features (for Mt. Carmel):
