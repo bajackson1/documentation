@@ -70,4 +70,4 @@ Here are our plans for the next Sprint Implementations with screenshots of our T
 - As a user, I want to save a list of buildings on campus, so I can refer to those buildings later
 - As a user, I want to see my progress of where I have been on campus, so I can look back and refer to them for future purposes
 
-![sprint3us.png](/assets/images/sprint3us.png)
+![sprint3us.png](/documentation/assets/images/sprint3us.png)
