@@ -37,12 +37,12 @@ We want each screen to be able to go to each other, rather than one screen only 
 
 ## System Design - ERD
 
-<img src="/documentation/assets/images/ERD1.png" width="25%">
-<img src="/documentation/assets/images/ERD2.png" width="25%">
+<img src="/documentation/assets/images/ERD1.png">
+<img src="/documentation/assets/images/ERD2.png">
 
 ## System Design - UML
 
-<img src="/documentation/assets/images/mile1UML.png" width="25%">
+<img src="/documentation/assets/images/mile1UML.png">
 
 The UML diagram shows the campus information system which lets users explore the buildings, facilities, and resources on the Mount Carmel campus. The main entities are AcademicBuilding, ResidenceHall, and DiningHall, all of which contain the name and description as well as aspects specific to each one (cuisine, capacity, etc.) The CampusMap class shows each building's location and the UserProfile class tracks user interactions such as saved, visited, and favorite buildings. The user interface is split into BuildingListView, BuildingDetailsView, CampusMapView, and UserProfileView, enabling users to access and interact with the campus information. The relationships between the classes and their methods show information and interactions within the system, allowing users to manage and explore the Mount Carmel campus.
 
@@ -55,7 +55,7 @@ Here are our plans for the next Sprint Implementations with screenshots of our T
 - As a user, I want to see a list of all of the different academic buildings on the Mount Carmel campus with descriptions, so I can know more information about which building is which
 - As a user, I want to see a map of the Mount Carmel Campus, so I can know where each building is
 
-<img src="/documentation/assets/images/sprint1us.png" width="25%">
+<img src="/documentation/assets/images/sprint1us.png" width="50%">
 
 ### Implementation 2
 
@@ -63,11 +63,11 @@ Here are our plans for the next Sprint Implementations with screenshots of our T
 - As a user, I want to see a list of all of the different dining halls on the Mount Carmel campus with descriptions, so I can know more information about which ones are which
 
 
-<img src="/documentation/assets/images/sprint2us.png" width="25%">
+<img src="/documentation/assets/images/sprint2us.png" width="50%">
 
 ### Implementation 3
 
 - As a user, I want to save a list of buildings on campus, so I can refer to those buildings later
 - As a user, I want to see my progress of where I have been on campus, so I can look back and refer to them for future purposes
 
-<img src="/documentation/assets/images/sprint3us.png" width="25%">
+<img src="/documentation/assets/images/sprint3us.png" width="50%">
