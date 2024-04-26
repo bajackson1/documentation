@@ -23,13 +23,12 @@ Our idea was to implement a travel-tracker type app, that will allow you to trac
 
 ## Description
 
-![been-screen.png](/documentation/assets/images/been-screen.png)
-*been App Home Page*
+<img src="/documentation/assets/images/been-screen.png" width="25%">
 
 We wanted the app to have the following features (for Mt. Carmel):
 
-- Allow the user to list the places on campus they’ve been to
-- Keep progress of all of the user’s building status
+- Allow the user to list the places on campus they've been to
+- Keep progress of all of the user's building status
 - Show a list all of the different buildings with descriptions
 - Show a list all of the residence halls with descriptions
 - Show a list all of the dining halls with descriptions
@@ -37,9 +36,8 @@ We wanted the app to have the following features (for Mt. Carmel):
 
 ## Initial Mockup
 
-![proposal-home-screen.png](/documentation/assets/images/proposal-home-screen.png)
-![proposal-info-screen.png](/documentation/assets/images/proposal-info-screen.png)
-*Basic idea for app using the mockup for the Home page and Mt. Carmel page*
+<img src="/documentation/assets/images/proposal-home-screen.png" width="25%">
+<img src="/documentation/assets/images/proposal-info-screen.png" width="25%">
 
 ## User Stories
 
