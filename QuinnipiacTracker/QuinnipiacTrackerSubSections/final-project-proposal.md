@@ -23,7 +23,7 @@ Our idea was to implement a travel-tracker type app, that will allow you to trac
 
 ## Description
 
-![been-screen.png](/documentation/assets//been-screen.png)
+![been-screen.png](/assets/images/been-screen.png)
 *been App Home Page*
 
 We wanted the app to have the following features (for Mt. Carmel):
@@ -37,8 +37,8 @@ We wanted the app to have the following features (for Mt. Carmel):
 
 ## Initial Mockup
 
-![proposal-home-screen.png](/documentation/assets//proposal-home-screen.png)
-![proposal-info-screen.png](/documentation/assets//proposal-info-screen.png)
+![proposal-home-screen.png](/assets/images/proposal-home-screen.png)
+![proposal-info-screen.png](/assets/images/proposal-info-screen.png)
 *Basic idea for app using the mockup for the Home page and Mt. Carmel page*
 
 ## User Stories
