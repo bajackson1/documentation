@@ -6,10 +6,3 @@ url: https://bajackson1.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-relative_links:
-  enabled: true
-  collections: true
-
-search:
-  heading_level: 3
