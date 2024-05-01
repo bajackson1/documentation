@@ -18,7 +18,7 @@ permalink: /QuinnipiacTracker
 # Quinnipiac Tracker
 
 Start Date: 2024-04-15 <br/>
-End Date: In Progress <br/>
+End Date: 2024-05-01 <br/>
 Collaborators: [Cole Davignon](https://github.com/cdavignon) <br/>
 GitHub Link: [bajackson1/QuinnipiacTracker](https://github.com/bajackson1/QuinnipiacTracker)
 
